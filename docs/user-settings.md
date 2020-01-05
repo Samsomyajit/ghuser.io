@@ -1,8 +1,8 @@
 # Per-user settings/metadata
 
-You can tweak your profile by creating a `<your-username>/ghuser.io.settings` repo containing a
+You can tweak your profile by creating a `<Samsomyajit>/ghuser.io.settings` repo containing a
 `ghuser.io.json` file, or by forking
-[AurelienLourot/ghuser.io.settings](https://github.com/AurelienLourot/ghuser.io.settings).
+[Samsomyajit/ghuser.io.settings](https://github.com/Samsomyajit/ghuser.io.settings).
 
 ## Table of Contents
 
@@ -17,11 +17,9 @@ You can tweak your profile by creating a `<your-username>/ghuser.io.settings` re
 ```json
 {
   "_comment": "User metadata for ghuser.io. See https://github.com/ghuser-io/ghuser.io/blob/master/docs/user-settings.md",
-  "twitter_username": "AurelienLourot",
-  "reddit_username": "lourot",
-  "linkedin_id": "aurelien-lourot-67317748",
-  "stackoverflow_id": "1855917",
-  "keybase_username": "lourot"
+  "twitter_username": "Samsomyajit",
+  "linkedin_id": "somyajit-chakraborty-301844130",
+  "stackoverflow_id": "12655310",
 }
 ```
 
@@ -35,4 +33,4 @@ Your profile will then link to:
 
 > ![screenshot](user-settings.png)
 
-See [this example](https://github.com/AurelienLourot/ghuser.io.settings/blob/master/ghuser.io.json).
+See [this example](https://github.com/Samsomyajit/ghuser.io.settings/blob/master/ghuser.io.json).
